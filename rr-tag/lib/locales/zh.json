@@ -1,0 +1,1 @@
+{"commands":{"rr-tag":{"description":"用chatgpt搞点绘画tag","usage":null,"messages":{"prompt":{"base":"用尽可能多的英语单词详细的描述一幅画面，用碎片化的语言而不是自然语言去描述这幅画，描述词尽量丰富，每个单词之间用逗号分隔\\n提示词：“{text}”"}}}}}

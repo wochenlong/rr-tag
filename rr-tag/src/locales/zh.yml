@@ -1,0 +1,7 @@
+commands: # 命令列表
+  rr-tag: # 命令名称
+    description: 用chatgpt搞点绘画tag # 命令描述
+    usage: # 命令用法
+    messages: # 命令消息
+      prompt: # 提示信息
+        base: 用尽可能多的英语单词详细的描述一幅画面，用碎片化的语言而不是自然语言去描述这幅画，描述词尽量丰富，每个单词之间用逗号分隔\n提示词：“{text}” # 提示内容
